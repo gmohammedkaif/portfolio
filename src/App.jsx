@@ -4,7 +4,6 @@ import Homepage from "./pages/Homepage";
 
 const App = () => {
   return (
-<<<<<<< Updated upstream
     <div>
       <Routes>
         <Route path="/" element={<Homepage />} />
@@ -12,10 +11,5 @@ const App = () => {
     </div>
   );
 };
-=======
-    <div className='text-9xl'>Welcome to Zaid & Kaif portfolio  hellowww there </div>
-  )
-}
->>>>>>> Stashed changes
 
 export default App;
